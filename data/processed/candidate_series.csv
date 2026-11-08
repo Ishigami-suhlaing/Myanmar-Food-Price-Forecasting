@@ -1,0 +1,363 @@
+commodity,market,market_id,unit,pricetype,currency,first_month,last_month,records,unique_months,span_months,coverage_pct
+Rice (low quality),Lashio Market,1658,KG,Retail,MMK,2008-01,2026-09,202,202,225,89.8
+Salt,Lashio Market,1658,KG,Retail,MMK,2008-04,2026-09,179,179,222,80.6
+Oil (palm),Buthidaung,978,L,Retail,MMK,2008-01,2026-09,168,168,225,74.7
+Rice (low quality),Buthidaung,978,KG,Retail,MMK,2008-01,2026-08,162,162,224,72.3
+Rice (low quality),Pakokku Myo Ma Market,1664,KG,Retail,MMK,2014-01,2026-09,146,146,153,95.4
+Salt,Pakokku Myo Ma Market,1664,KG,Retail,MMK,2014-01,2026-09,146,146,153,95.4
+Salt,Buthidaung,978,KG,Retail,MMK,2011-02,2026-09,138,138,188,73.4
+Rice (low quality),Kutkai,1661,KG,Retail,MMK,2014-01,2026-09,130,130,153,85.0
+Salt,Kutkai,1661,KG,Retail,MMK,2014-01,2026-09,130,130,153,85.0
+Salt,Taunggyi,1019,KG,Retail,MMK,2008-01,2026-09,127,127,225,56.4
+Salt,Momauk,1005,KG,Retail,MMK,2011-02,2026-09,126,126,188,67.0
+Oil (palm),Rathedaung,1014,L,Retail,MMK,2008-01,2026-09,124,124,225,55.1
+Rice (low quality),Rathedaung,1014,KG,Retail,MMK,2008-01,2026-09,123,123,225,54.7
+Pulses,Buthidaung,978,KG,Retail,MMK,2012-01,2026-09,122,122,177,68.9
+Rice (low quality),Momauk,1005,KG,Retail,MMK,2011-02,2026-09,120,120,188,63.8
+Pulses,Momauk,1005,KG,Retail,MMK,2014-01,2026-09,119,119,153,77.8
+Salt,Mansi,1656,KG,Retail,MMK,2014-01,2026-08,109,109,152,71.7
+Rice (low quality),Taunggyi,1019,KG,Retail,MMK,2008-01,2026-09,108,108,225,48.0
+Rice (low quality),Mansi,1656,KG,Retail,MMK,2014-01,2026-08,107,107,152,70.4
+Rice (low quality),Nyaung Chung,1010,KG,Retail,MMK,2008-01,2026-09,107,107,225,47.6
+Pulses,Mansi,1656,KG,Retail,MMK,2014-01,2026-08,104,104,152,68.4
+Oil (palm),Nyaung Chung,1010,L,Retail,MMK,2008-01,2026-09,104,104,225,46.2
+Rice (low quality),Bhamo,1655,KG,Retail,MMK,2014-01,2026-09,98,98,153,64.1
+Oil (palm),Momauk,1005,L,Retail,MMK,2011-04,2026-09,97,97,186,52.2
+Pulses,Bhamo,1655,KG,Retail,MMK,2014-01,2026-09,91,91,153,59.5
+Salt,Bhamo,1655,KG,Retail,MMK,2014-01,2026-09,91,91,153,59.5
+Oil (palm),Mansi,1656,L,Retail,MMK,2014-01,2026-08,87,87,152,57.2
+Oil (palm),Bhamo,1655,L,Retail,MMK,2014-01,2026-09,86,86,153,56.2
+Salt,Rathedaung,1014,KG,Retail,MMK,2011-02,2026-09,86,86,188,45.7
+Rice (low quality),Hsihseng,986,KG,Retail,MMK,2008-01,2026-07,80,80,223,35.9
+Pulses,Hlaing Bwe Myo Ma market,3280,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Pulses,Kanthar,3302,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Pulses,Pakokku Myo Ma Market,1664,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Rice (low quality),Hlaing Bwe Myo Ma market,3280,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Rice (low quality),Kanthar,3302,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Rice (low quality),Minbu Myo Ma Market,3308,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Salt,Hlaing Bwe Myo Ma market,3280,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Salt,Kanthar,3302,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Salt,Minbu Myo Ma Market,3308,KG,Retail,MMK,2020-04,2026-09,77,77,78,98.7
+Rice (low quality),Zedi Pyin,1024,KG,Retail,MMK,2008-01,2026-09,77,77,225,34.2
+Pulses,Minbu Myo Ma Market,3308,KG,Retail,MMK,2020-04,2026-09,76,76,78,97.4
+Rice (low quality),Lahe,3297,KG,Retail,MMK,2020-04,2026-09,75,75,78,96.2
+Rice (low quality),Yebyu Market,3354,KG,Retail,MMK,2020-04,2026-09,75,75,78,96.2
+Salt,Lahe,3297,KG,Retail,MMK,2020-04,2026-09,75,75,78,96.2
+Salt,Yebyu Market,3354,KG,Retail,MMK,2020-04,2026-09,75,75,78,96.2
+Oil (palm),Lashio Market,1658,L,Retail,MMK,2011-06,2026-09,75,75,184,40.8
+Eggs (local),Kanthar,3302,10 pcs,Retail,MMK,2020-07,2026-09,74,74,75,98.7
+Eggs (local),Minbu Myo Ma Market,3308,10 pcs,Retail,MMK,2020-07,2026-09,74,74,75,98.7
+Onions (local),Hlaing Bwe Myo Ma market,3280,KG,Retail,MMK,2020-07,2026-09,74,74,75,98.7
+Onions (local),Kanthar,3302,KG,Retail,MMK,2020-07,2026-09,74,74,75,98.7
+Onions (local),Minbu Myo Ma Market,3308,KG,Retail,MMK,2020-07,2026-09,74,74,75,98.7
+Tomatoes (local),Kanthar,3302,KG,Retail,MMK,2020-07,2026-09,74,74,75,98.7
+Tomatoes (local),Minbu Myo Ma Market,3308,KG,Retail,MMK,2020-07,2026-09,74,74,75,98.7
+Tomatoes (local),Pakokku Myo Ma Market,1664,KG,Retail,MMK,2020-07,2026-09,74,74,75,98.7
+Pulses,Lashio Market,1658,KG,Retail,MMK,2020-04,2026-09,74,74,78,94.9
+Eggs (local),Pakokku Myo Ma Market,1664,10 pcs,Retail,MMK,2020-07,2026-09,73,73,75,97.3
+Eggs (local),Yebyu Market,3354,10 pcs,Retail,MMK,2020-07,2026-09,72,72,75,96.0
+Onions (local),Yebyu Market,3354,KG,Retail,MMK,2020-07,2026-09,72,72,75,96.0
+Eggs (local),Lashio Market,1658,10 pcs,Retail,MMK,2020-07,2026-09,71,71,75,94.7
+Onions (local),Lashio Market,1658,KG,Retail,MMK,2020-07,2026-09,71,71,75,94.7
+Tomatoes (local),Lashio Market,1658,KG,Retail,MMK,2020-07,2026-09,71,71,75,94.7
+Pulses,Bilin Myo Ma Market,3276,KG,Retail,MMK,2020-04,2026-09,71,71,78,91.0
+Salt,Bilin Myo Ma Market,3276,KG,Retail,MMK,2020-04,2026-09,71,71,78,91.0
+Salt,Nyaung Chung,1010,KG,Retail,MMK,2011-02,2026-09,71,71,188,37.8
+Salt,Myitkyina Myoma Market,3321,KG,Retail,MMK,2020-04,2026-09,70,70,78,89.7
+Eggs (local),Lahe,3297,10 pcs,Retail,MMK,2020-07,2026-09,69,69,75,92.0
+Onions (local),Lahe,3297,KG,Retail,MMK,2020-07,2026-09,69,69,75,92.0
+Oil (palm),Hlaing Bwe Myo Ma market,3280,L,Retail,MMK,2020-04,2026-09,68,68,78,87.2
+Oil (palm),Pakokku Myo Ma Market,1664,L,Retail,MMK,2020-04,2026-09,68,68,78,87.2
+Rice (low quality),Yae Baw Market,3281,KG,Retail,MMK,2020-04,2026-09,68,68,78,87.2
+Onions (local),Bilin Myo Ma Market,3276,KG,Retail,MMK,2020-07,2026-09,67,67,75,89.3
+Rice (low quality),Thae Chaung,3346,KG,Retail,MMK,2020-05,2026-09,67,67,77,87.0
+Oil (palm),Myitkyina Myoma Market,3321,L,Retail,MMK,2020-04,2026-09,67,67,78,85.9
+Rice (low quality),Bilin Myo Ma Market,3276,KG,Retail,MMK,2020-04,2026-09,67,67,78,85.9
+Eggs (local),Natmauk Myoma Market,5225,10 pcs,Retail,MMK,2021-01,2026-09,66,66,69,95.7
+Onions (local),Natmauk Myoma Market,5225,KG,Retail,MMK,2021-01,2026-09,66,66,69,95.7
+Pulses,Natmauk Myoma Market,5225,KG,Retail,MMK,2021-01,2026-09,66,66,69,95.7
+Rice (low quality),Natmauk Myoma Market,5225,KG,Retail,MMK,2021-01,2026-09,66,66,69,95.7
+Salt,Natmauk Myoma Market,5225,KG,Retail,MMK,2021-01,2026-09,66,66,69,95.7
+Tomatoes (local),Natmauk Myoma Market,5225,KG,Retail,MMK,2021-01,2026-09,66,66,69,95.7
+Tomatoes (local),Lahe,3297,KG,Retail,MMK,2020-07,2026-09,66,66,75,88.0
+Oil (palm),Kyaukpyu Main,3626,L,Retail,MMK,2020-06,2026-09,66,66,76,86.8
+Oil (palm),Yebyu Market,3354,L,Retail,MMK,2020-04,2026-09,66,66,78,84.6
+Eggs (local),Kyaukpyu Main,3626,10 pcs,Retail,MMK,2020-07,2026-09,65,65,75,86.7
+Oil (palm),Thae Chaung,3346,L,Retail,MMK,2020-07,2026-09,65,65,75,86.7
+Pulses,Thae Chaung,3346,KG,Retail,MMK,2020-07,2026-09,65,65,75,86.7
+Salt,Thae Chaung,3346,KG,Retail,MMK,2020-07,2026-09,65,65,75,86.7
+Oil (palm),Lahe,3297,L,Retail,MMK,2020-04,2026-09,65,65,78,83.3
+Pulses,Myitkyina Myoma Market,3321,KG,Retail,MMK,2020-04,2026-09,65,65,78,83.3
+Pulses,Yae Baw Market,3281,KG,Retail,MMK,2020-04,2026-09,65,65,78,83.3
+Pulses,Yebyu Market,3354,KG,Retail,MMK,2020-04,2026-09,65,65,78,83.3
+Rice (low quality),Myitkyina Myoma Market,3321,KG,Retail,MMK,2020-04,2026-09,65,65,78,83.3
+Eggs (local),Buthidaung,978,10 pcs,Retail,MMK,2020-07,2026-09,64,64,75,85.3
+Onions (local),Kyaukpyu Main,3626,KG,Retail,MMK,2020-07,2026-09,64,64,75,85.3
+Onions (local),Thae Chaung,3346,KG,Retail,MMK,2020-07,2026-09,64,64,75,85.3
+Pulses,Kyaukpyu Main,3626,KG,Retail,MMK,2020-06,2026-09,64,64,76,84.2
+Onions (local),Buthidaung,978,KG,Retail,MMK,2020-07,2026-09,63,63,75,84.0
+Oil (palm),Kanthar,3302,L,Retail,MMK,2020-04,2026-09,63,63,78,80.8
+Salt,Yae Baw Market,3281,KG,Retail,MMK,2020-04,2026-09,63,63,78,80.8
+Onions (local),Pakokku Myo Ma Market,1664,KG,Retail,MMK,2020-07,2026-09,62,62,75,82.7
+Pulses,Lahe,3297,KG,Retail,MMK,2020-05,2026-09,62,62,77,80.5
+Pulses,Zay Cho,3307,KG,Retail,MMK,2020-04,2026-08,62,62,77,80.5
+Salt,Zay Cho,3307,KG,Retail,MMK,2020-04,2026-08,62,62,77,80.5
+Rice (low quality),Mya Thida,3353,KG,Retail,MMK,2020-04,2026-09,62,62,78,79.5
+Salt,Mya Thida,3353,KG,Retail,MMK,2020-04,2026-09,62,62,78,79.5
+Eggs (local),Meegwet,6089,10 pcs,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Eggs (local),YaeNiMyaung,6087,10 pcs,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Eggs (local),YwarMa,6090,10 pcs,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Onions (local),Meegwet,6089,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Onions (local),YwarMa,6090,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Pulses,Meegwet,6089,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Pulses,YaeNiMyaung,6087,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Pulses,YwarMa,6090,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Rice (low quality),Meegwet,6089,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Rice (low quality),YaeNiMyaung,6087,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Rice (low quality),YwarMa,6090,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Salt,Meegwet,6089,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Salt,YaeNiMyaung,6087,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Salt,YwarMa,6090,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Tomatoes (local),Meegwet,6089,KG,Retail,MMK,2021-07,2026-09,61,61,63,96.8
+Rice (low quality),Kyaukpyu Main,3626,KG,Retail,MMK,2020-09,2026-09,61,61,73,83.6
+Eggs (local),Thae Chaung,3346,10 pcs,Retail,MMK,2020-07,2026-08,61,61,74,82.4
+Oil (palm),Man Wein Gyi,3304,L,Retail,MMK,2020-05,2026-09,61,61,77,79.2
+Pulses,Man Wein Gyi,3304,KG,Retail,MMK,2020-05,2026-09,61,61,77,79.2
+Rice (low quality),Man Wein Gyi,3304,KG,Retail,MMK,2020-05,2026-09,61,61,77,79.2
+Salt,Man Wein Gyi,3304,KG,Retail,MMK,2020-05,2026-09,61,61,77,79.2
+Pulses,Kanpetlet,3285,KG,Retail,MMK,2020-04,2026-09,61,61,78,78.2
+Pulses,Mya Thida,3353,KG,Retail,MMK,2020-04,2026-09,61,61,78,78.2
+Salt,Waingmaw Myoma Market,3352,KG,Retail,MMK,2020-04,2026-09,61,61,78,78.2
+Eggs (local),MyoHaung,6086,10 pcs,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Eggs (local),Zamyinzwel,6091,10 pcs,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Pulses,MyoHaung,6086,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Pulses,Ngazalgwae,6088,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Pulses,Nyaungpin,6085,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Pulses,Zamyinzwel,6091,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Rice (low quality),Ngazalgwae,6088,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Rice (low quality),Nyaungpin,6085,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Rice (low quality),Zamyinzwel,6091,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Salt,MyoHaung,6086,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Salt,Ngazalgwae,6088,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Salt,Nyaungpin,6085,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Salt,Zamyinzwel,6091,KG,Retail,MMK,2021-07,2026-09,60,60,63,95.2
+Onions (local),Yae Baw Market,3281,KG,Retail,MMK,2020-07,2026-09,60,60,75,80.0
+Oil (palm),Minbu Myo Ma Market,3308,L,Retail,MMK,2020-04,2026-09,60,60,78,76.9
+Rice (low quality),Kanpetlet,3285,KG,Retail,MMK,2020-04,2026-09,60,60,78,76.9
+Salt,Kanpetlet,3285,KG,Retail,MMK,2020-04,2026-09,60,60,78,76.9
+Oil (palm),Zedi Pyin,1024,L,Retail,MMK,2008-01,2026-09,60,60,225,26.7
+Eggs (local),Ngazalgwae,6088,10 pcs,Retail,MMK,2021-09,2026-09,59,59,61,96.7
+Eggs (local),Nyaungpin,6085,10 pcs,Retail,MMK,2021-09,2026-09,59,59,61,96.7
+Onions (local),Ngazalgwae,6088,KG,Retail,MMK,2021-09,2026-09,59,59,61,96.7
+Onions (local),Zamyinzwel,6091,KG,Retail,MMK,2021-09,2026-09,59,59,61,96.7
+Tomatoes (local),Ngazalgwae,6088,KG,Retail,MMK,2021-09,2026-09,59,59,61,96.7
+Oil (palm),YaeNiMyaung,6087,L,Retail,MMK,2021-07,2026-09,59,59,63,93.7
+Oil (palm),YwarMa,6090,L,Retail,MMK,2021-07,2026-09,59,59,63,93.7
+Tomatoes (local),YwarMa,6090,KG,Retail,MMK,2021-07,2026-09,59,59,63,93.7
+Onions (local),Zay Cho,3307,KG,Retail,MMK,2020-07,2026-08,59,59,74,79.7
+Rice (low quality),Waingmaw Myoma Market,3352,KG,Retail,MMK,2020-04,2026-09,59,59,78,75.6
+Onions (local),ManiSithu,6377,KG,Retail,MMK,2021-10,2026-09,58,58,60,96.7
+Pulses,ManiSithu,6377,KG,Retail,MMK,2021-10,2026-09,58,58,60,96.7
+Rice (low quality),ManiSithu,6377,KG,Retail,MMK,2021-10,2026-09,58,58,60,96.7
+Oil (palm),Meegwet,6089,L,Retail,MMK,2021-07,2026-09,58,58,63,92.1
+Oil (palm),MyoHaung,6086,L,Retail,MMK,2021-07,2026-09,58,58,63,92.1
+Eggs (local),Waingmaw Myoma Market,3352,10 pcs,Retail,MMK,2021-02,2026-09,58,58,68,85.3
+Tomatoes (local),Bilin Myo Ma Market,3276,KG,Retail,MMK,2020-07,2026-02,58,58,68,85.3
+Eggs (local),Kanpetlet,3285,10 pcs,Retail,MMK,2020-07,2026-09,58,58,75,77.3
+Eggs (local),Man Wein Gyi,3304,10 pcs,Retail,MMK,2020-07,2026-09,58,58,75,77.3
+Onions (local),Man Wein Gyi,3304,KG,Retail,MMK,2020-07,2026-09,58,58,75,77.3
+Onions (local),Mya Thida,3353,KG,Retail,MMK,2020-07,2026-09,58,58,75,77.3
+Tomatoes (local),Buthidaung,978,KG,Retail,MMK,2020-07,2026-09,58,58,75,77.3
+Oil (palm),Kutkai,1661,L,Retail,MMK,2020-04,2026-09,58,58,78,74.4
+Eggs (local),ManiSithu,6377,10 pcs,Retail,MMK,2021-10,2026-09,57,57,60,95.0
+Oil (palm),Ngazalgwae,6088,L,Retail,MMK,2021-07,2026-09,57,57,63,90.5
+Eggs (local),Myitkyina Myoma Market,3321,10 pcs,Retail,MMK,2021-04,2026-09,57,57,66,86.4
+Onions (local),Myitkyina Myoma Market,3321,KG,Retail,MMK,2021-04,2026-09,57,57,66,86.4
+Tomatoes (local),Kanpetlet,3285,KG,Retail,MMK,2020-07,2026-09,57,57,75,76.0
+Pulses,Kutkai,1661,KG,Retail,MMK,2020-04,2026-09,57,57,78,73.1
+Pulses,Waingmaw Myoma Market,3352,KG,Retail,MMK,2020-04,2026-09,57,57,78,73.1
+Rice (low quality),Monyin Market,3315,KG,Retail,MMK,2020-04,2026-09,57,57,78,73.1
+Salt,Monyin Market,3315,KG,Retail,MMK,2020-04,2026-09,57,57,78,73.1
+Oil (palm),ManiSithu,6377,L,Retail,MMK,2021-10,2026-09,56,56,60,93.3
+Onions (local),Waingmaw Myoma Market,3352,KG,Retail,MMK,2021-01,2026-09,56,56,69,81.2
+Oil (palm),Kyein Ni Pyin,3332,L,Retail,MMK,2020-04,2026-05,56,56,74,75.7
+Salt,Kyein Ni Pyin,3332,KG,Retail,MMK,2020-04,2026-05,56,56,74,75.7
+Tomatoes (local),Man Wein Gyi,3304,KG,Retail,MMK,2020-07,2026-09,56,56,75,74.7
+Oil (palm),Kanpetlet,3285,L,Retail,MMK,2020-04,2026-09,56,56,78,71.8
+Pulses,Monyin Market,3315,KG,Retail,MMK,2020-04,2026-09,56,56,78,71.8
+Pulses,Taunggyi,1019,KG,Retail,MMK,2013-01,2026-09,56,56,165,33.9
+Tomatoes (local),Zamyinzwel,6091,KG,Retail,MMK,2021-07,2026-09,55,55,63,87.3
+Rice (low quality),Kyein Ni Pyin,3332,KG,Retail,MMK,2020-04,2026-05,55,55,74,74.3
+Eggs (local),Kutkai,1661,10 pcs,Retail,MMK,2020-07,2026-09,55,55,75,73.3
+Eggs (local),Mya Thida,3353,10 pcs,Retail,MMK,2020-07,2026-09,55,55,75,73.3
+Onions (local),Kutkai,1661,KG,Retail,MMK,2020-07,2026-09,55,55,75,73.3
+Rice (low quality),MyoHaung,6086,KG,Retail,MMK,2021-07,2026-09,54,54,63,85.7
+Eggs (local),Zay Cho,3307,10 pcs,Retail,MMK,2020-07,2026-08,54,54,74,73.0
+Salt,Kyaukpyu Main,3626,KG,Retail,MMK,2020-07,2026-08,54,54,74,73.0
+Onions (local),Kanpetlet,3285,KG,Retail,MMK,2020-07,2026-09,54,54,75,72.0
+Tomatoes (local),Kutkai,1661,KG,Retail,MMK,2020-07,2026-09,54,54,75,72.0
+Pulses,Thiri Mingalar Market,3301,KG,Retail,MMK,2020-04,2026-08,54,54,77,70.1
+Pulses,Nyaung Chung,1010,KG,Retail,MMK,2012-03,2026-09,54,54,175,30.9
+Tomatoes (local),ManiSithu,6377,KG,Retail,MMK,2021-10,2026-06,53,53,57,93.0
+Oil (palm),Nyaungpin,6085,L,Retail,MMK,2021-07,2026-09,53,53,63,84.1
+Oil (palm),Zamyinzwel,6091,L,Retail,MMK,2021-07,2026-09,53,53,63,84.1
+Tomatoes (local),Myitkyina Myoma Market,3321,KG,Retail,MMK,2021-04,2026-09,53,53,66,80.3
+Onions (local),Kyein Ni Pyin,3332,KG,Retail,MMK,2020-07,2026-05,53,53,71,74.6
+Onions (local),Thiri Market,5244,KG,Retail,MMK,2020-11,2026-09,53,53,71,74.6
+Pulses,Thiri Market,5244,KG,Retail,MMK,2020-11,2026-09,53,53,71,74.6
+Salt,Thiri Market,5244,KG,Retail,MMK,2020-11,2026-09,53,53,71,74.6
+Oil (palm),Monyin Market,3315,L,Retail,MMK,2020-04,2026-09,53,53,78,67.9
+Pulses,Paletwa Myoma Market,1653,KG,Retail,MMK,2020-05,2026-04,52,52,72,72.2
+Salt,Paletwa Myoma Market,1653,KG,Retail,MMK,2020-05,2026-04,52,52,72,72.2
+Oil (palm),Thiri Mingalar Market,3301,L,Retail,MMK,2020-04,2026-08,52,52,77,67.5
+Rice (low quality),BoneSin,6376,KG,Retail,MMK,2021-10,2026-09,50,50,60,83.3
+Oil (palm),Natmauk Myoma Market,5225,L,Retail,MMK,2021-01,2026-09,50,50,69,72.5
+Eggs (local),Thiri Market,5244,10 pcs,Retail,MMK,2020-11,2026-09,50,50,71,70.4
+Oil (palm),Galeng,3289,L,Retail,MMK,2020-05,2026-03,50,50,71,70.4
+Pulses,Galeng,3289,KG,Retail,MMK,2020-05,2026-03,50,50,71,70.4
+Rice (low quality),Galeng,3289,KG,Retail,MMK,2020-05,2026-03,50,50,71,70.4
+Salt,Galeng,3289,KG,Retail,MMK,2020-05,2026-03,50,50,71,70.4
+Eggs (local),Thiri Mingalar Market,3301,10 pcs,Retail,MMK,2020-07,2026-08,50,50,74,67.6
+Eggs (local),Momauk,1005,10 pcs,Retail,MMK,2020-07,2026-09,50,50,75,66.7
+Onions (local),Momauk,1005,KG,Retail,MMK,2020-07,2026-09,50,50,75,66.7
+Rice (low quality),Zay Cho,3307,KG,Retail,MMK,2020-04,2026-08,50,50,77,64.9
+Eggs (local),Monyin Market,3315,10 pcs,Retail,MMK,2020-12,2026-09,49,49,70,70.0
+Onions (local),Paletwa Myoma Market,1653,KG,Retail,MMK,2020-07,2026-04,49,49,70,70.0
+Eggs (local),Kyein Ni Pyin,3332,10 pcs,Retail,MMK,2020-07,2026-05,49,49,71,69.0
+Eggs (local),Nyaung Chung,1010,10 pcs,Retail,MMK,2020-07,2026-09,49,49,75,65.3
+Onions (local),KawKareik Myo Ma Market,3286,KG,Retail,MMK,2020-07,2026-09,49,49,75,65.3
+Eggs (local),Taunggyi,1019,10 pcs,Retail,MMK,2022-09,2026-09,48,48,49,98.0
+Pulses,KalawMyoma,8028,KG,Retail,MMK,2022-09,2026-09,48,48,49,98.0
+Rice (low quality),KalawMyoma,8028,KG,Retail,MMK,2022-09,2026-09,48,48,49,98.0
+Tomatoes (local),Taunggyi,1019,KG,Retail,MMK,2022-09,2026-09,48,48,49,98.0
+Onions (local),Galeng,3289,KG,Retail,MMK,2020-07,2026-03,48,48,69,69.6
+Eggs (local),Paletwa Myoma Market,1653,10 pcs,Retail,MMK,2020-07,2026-04,48,48,70,68.6
+Onions (local),Monyin Market,3315,KG,Retail,MMK,2020-12,2026-09,48,48,70,68.6
+Oil (palm),Paletwa Myoma Market,1653,L,Retail,MMK,2020-05,2026-04,48,48,72,66.7
+Onions (local),Nyaung Chung,1010,KG,Retail,MMK,2020-07,2026-09,48,48,75,64.0
+Tomatoes (local),Momauk,1005,KG,Retail,MMK,2020-07,2026-09,48,48,75,64.0
+Oil (palm),Ohn Taw Gyi,3292,L,Retail,MMK,2020-05,2026-09,48,48,77,62.3
+Salt,Ohn Taw Gyi,3292,KG,Retail,MMK,2020-05,2026-09,48,48,77,62.3
+Oil (palm),Mya Thida,3353,L,Retail,MMK,2020-04,2026-09,48,48,78,61.5
+Oil (palm),KalawMyoma,8028,L,Retail,MMK,2022-09,2026-09,47,47,49,95.9
+Tomatoes (local),KalawMyoma,8028,KG,Retail,MMK,2022-09,2026-09,47,47,49,95.9
+Salt,ManiSithu,6377,KG,Retail,MMK,2021-10,2026-09,47,47,60,78.3
+Tomatoes (local),Yebyu Market,3354,KG,Retail,MMK,2020-07,2026-09,47,47,75,62.7
+Salt,KawKareik Myo Ma Market,3286,KG,Retail,MMK,2020-04,2026-09,47,47,78,60.3
+Onions (local),Thiri Myaing,7443,KG,Retail,MMK,2022-09,2026-09,46,46,49,93.9
+Pulses,Thiri Myaing,7443,KG,Retail,MMK,2022-09,2026-09,46,46,49,93.9
+Salt,Jan Mai Kaung,7921,KG,Retail,MMK,2022-09,2026-09,46,46,49,93.9
+Salt,Thiri Myaing,7443,KG,Retail,MMK,2022-09,2026-09,46,46,49,93.9
+Eggs (local),Taung Sun,7928,10 pcs,Retail,MMK,2022-08,2026-09,46,46,50,92.0
+Onions (local),Taung Sun,7928,KG,Retail,MMK,2022-08,2026-09,46,46,50,92.0
+Pulses,Taung Sun,7928,KG,Retail,MMK,2022-08,2026-09,46,46,50,92.0
+Salt,Taung Sun,7928,KG,Retail,MMK,2022-08,2026-09,46,46,50,92.0
+Eggs (local),Mingalar,6084,10 pcs,Retail,MMK,2021-07,2026-09,46,46,63,73.0
+Onions (local),Mingalar,6084,KG,Retail,MMK,2021-07,2026-09,46,46,63,73.0
+Rice (low quality),Mingalar,6084,KG,Retail,MMK,2021-07,2026-09,46,46,63,73.0
+Salt,Mingalar,6084,KG,Retail,MMK,2021-07,2026-09,46,46,63,73.0
+Tomatoes (local),Mingalar,6084,KG,Retail,MMK,2021-07,2026-09,46,46,63,73.0
+Oil (palm),Nget Chaung,3333,L,Retail,MMK,2020-05,2026-01,46,46,69,66.7
+Salt,Nget Chaung,3333,KG,Retail,MMK,2020-05,2026-01,46,46,69,66.7
+Tomatoes (local),Galeng,3289,KG,Retail,MMK,2020-07,2026-03,46,46,69,66.7
+Onions (local),Say Tha Mar Gyi,3345,KG,Retail,MMK,2020-12,2026-09,46,46,70,65.7
+Eggs (local),Bilin Myo Ma Market,3276,10 pcs,Retail,MMK,2020-07,2026-05,46,46,71,64.8
+Tomatoes (local),Thiri Market,5244,KG,Retail,MMK,2020-11,2026-09,46,46,71,64.8
+Eggs (local),Yae Baw Market,3281,10 pcs,Retail,MMK,2020-07,2026-09,46,46,75,61.3
+Rice (low quality),Ohn Taw Gyi,3292,KG,Retail,MMK,2020-06,2026-09,46,46,76,60.5
+Oil (palm),Say Tha Mar Gyi,3345,L,Retail,MMK,2020-05,2026-09,46,46,77,59.7
+Pulses,Ohn Taw Gyi,3292,KG,Retail,MMK,2020-05,2026-09,46,46,77,59.7
+Salt,Say Tha Mar Gyi,3345,KG,Retail,MMK,2020-05,2026-09,46,46,77,59.7
+Pulses,KawKareik Myo Ma Market,3286,KG,Retail,MMK,2020-04,2026-09,46,46,78,59.0
+Rice (low quality),Mindat Myoma Market,3311,KG,Retail,MMK,2020-04,2026-09,46,46,78,59.0
+Eggs (local),Jan Mai Kaung,7921,10 pcs,Retail,MMK,2022-09,2026-09,45,45,49,91.8
+Salt,KalawMyoma,8028,KG,Retail,MMK,2022-09,2026-09,45,45,49,91.8
+Rice (low quality),Taung Sun,7928,KG,Retail,MMK,2022-08,2026-09,45,45,50,90.0
+Onions (local),Ohn Taw Gyi,3292,KG,Retail,MMK,2021-12,2026-09,45,45,58,77.6
+Tomatoes (local),YaeNiMyaung,6087,KG,Retail,MMK,2021-07,2026-09,45,45,63,71.4
+Tomatoes (local),Waingmaw Myoma Market,3352,KG,Retail,MMK,2021-02,2026-09,45,45,68,66.2
+Tomatoes (local),Nyaung Chung,1010,KG,Retail,MMK,2020-07,2026-09,45,45,75,60.0
+Pulses,Say Tha Mar Gyi,3345,KG,Retail,MMK,2020-05,2026-09,45,45,77,58.4
+Pulses,Mindat Myoma Market,3311,KG,Retail,MMK,2020-04,2026-09,45,45,78,57.7
+Salt,Mindat Myoma Market,3311,KG,Retail,MMK,2020-04,2026-09,45,45,78,57.7
+Eggs (local),Thiri Myaing,7443,10 pcs,Retail,MMK,2022-09,2026-09,44,44,49,89.8
+Onions (local),Taunggyi,1019,KG,Retail,MMK,2022-09,2026-09,44,44,49,89.8
+Onions (local),Nget Chaung,3333,KG,Retail,MMK,2020-08,2026-01,44,44,66,66.7
+Eggs (local),Say Tha Mar Gyi,3345,10 pcs,Retail,MMK,2020-12,2026-08,44,44,69,63.8
+Oil (palm),Kyauk Ta Lone,3293,L,Retail,MMK,2020-05,2026-01,44,44,69,63.8
+Salt,Kyauk Ta Lone,3293,KG,Retail,MMK,2020-05,2026-01,44,44,69,63.8
+Tomatoes (local),Thiri Mingalar Market,3301,KG,Retail,MMK,2020-07,2026-08,44,44,74,59.5
+Eggs (local),Hlaing Bwe Myo Ma market,3280,10 pcs,Retail,MMK,2020-07,2026-09,44,44,75,58.7
+Oil (palm),Bilin Myo Ma Market,3276,L,Retail,MMK,2020-04,2026-09,44,44,78,56.4
+Oil (palm),Sittwe,3341,L,Retail,MMK,2020-04,2026-09,44,44,78,56.4
+Pulses,Sittwe,3341,KG,Retail,MMK,2020-04,2026-09,44,44,78,56.4
+Salt,Hsihseng,986,KG,Retail,MMK,2011-01,2026-07,44,44,187,23.5
+Oil (palm),Thiri Myaing,7443,L,Retail,MMK,2022-09,2026-09,43,43,49,87.8
+Oil (palm),BoneSin,6376,L,Retail,MMK,2022-01,2026-07,43,43,55,78.2
+Tomatoes (local),MyoHaung,6086,KG,Retail,MMK,2021-07,2026-09,43,43,63,68.3
+Eggs (local),Nget Chaung,3333,10 pcs,Retail,MMK,2020-08,2026-01,43,43,66,65.2
+Rice (low quality),Kyauk Ta Lone,3293,KG,Retail,MMK,2020-05,2026-01,43,43,69,62.3
+Eggs (local),Mindat Myoma Market,3311,10 pcs,Retail,MMK,2020-07,2026-09,43,43,75,57.3
+Eggs (local),Thayetchaung,8470,10 pcs,Retail,MMK,2023-03,2026-09,42,42,43,97.7
+Onions (local),Thayetchaung,8470,KG,Retail,MMK,2023-03,2026-09,42,42,43,97.7
+Pulses,Thayetchaung,8470,KG,Retail,MMK,2023-03,2026-09,42,42,43,97.7
+Salt,Thayetchaung,8470,KG,Retail,MMK,2023-03,2026-09,42,42,43,97.7
+Tomatoes (local),Thiri Myaing,7443,KG,Retail,MMK,2022-11,2026-09,42,42,47,89.4
+Eggs (local),Ohn Taw Gyi,3292,10 pcs,Retail,MMK,2021-12,2026-08,42,42,57,73.7
+Tomatoes (local),Nyaungpin,6085,KG,Retail,MMK,2021-09,2026-09,42,42,61,68.9
+Oil (palm),Mingalar,6084,L,Retail,MMK,2021-07,2026-09,42,42,63,66.7
+Pulses,Kyauk Ta Lone,3293,KG,Retail,MMK,2020-05,2026-01,42,42,69,60.9
+Tomatoes (local),Monyin Market,3315,KG,Retail,MMK,2020-12,2026-09,42,42,70,60.0
+Tomatoes (local),Paletwa Myoma Market,1653,KG,Retail,MMK,2020-07,2026-04,42,42,70,60.0
+Pulses,Kyein Ni Pyin,3332,KG,Retail,MMK,2020-04,2026-05,42,42,74,56.8
+Tomatoes (local),Yae Baw Market,3281,KG,Retail,MMK,2020-07,2026-09,42,42,75,56.0
+Rice (low quality),Thiri Myaing,7443,KG,Retail,MMK,2022-09,2026-09,41,41,49,83.7
+Onions (local),YaeNiMyaung,6087,KG,Retail,MMK,2022-05,2026-09,41,41,53,77.4
+Rice (low quality),Say Tha Mar Gyi,3345,KG,Retail,MMK,2020-05,2026-09,41,41,77,53.2
+Oil (palm),Waingmaw Myoma Market,3352,L,Retail,MMK,2020-04,2026-09,41,41,78,52.6
+Eggs (local),NyaungshweMyoma,8027,10 pcs,Retail,MMK,2022-09,2026-06,40,40,46,87.0
+Pulses,NyaungshweMyoma,8027,KG,Retail,MMK,2022-09,2026-06,40,40,46,87.0
+Rice (low quality),NyaungshweMyoma,8027,KG,Retail,MMK,2022-09,2026-06,40,40,46,87.0
+Salt,NyaungshweMyoma,8027,KG,Retail,MMK,2022-09,2026-06,40,40,46,87.0
+Pulses,Butar,7930,KG,Retail,MMK,2022-09,2026-07,40,40,47,85.1
+Rice (low quality),Butar,7930,KG,Retail,MMK,2022-09,2026-07,40,40,47,85.1
+Salt,Butar,7930,KG,Retail,MMK,2022-09,2026-07,40,40,47,85.1
+Tomatoes (local),Butar,7930,KG,Retail,MMK,2022-09,2026-07,40,40,47,85.1
+Salt,BoneSin,6376,KG,Retail,MMK,2021-11,2026-09,40,40,59,67.8
+Eggs (local),Kyauk Ta Lone,3293,10 pcs,Retail,MMK,2020-07,2026-01,40,40,67,59.7
+Tomatoes (local),Kyaukpyu Main,3626,KG,Retail,MMK,2020-07,2026-09,40,40,75,53.3
+Oil (palm),Zay Cho,3307,L,Retail,MMK,2020-04,2026-08,40,40,77,51.9
+Salt,Sittwe,3341,KG,Retail,MMK,2020-04,2026-09,40,40,78,51.3
+Onions (local),MyoHaung,6086,KG,Retail,MMK,2023-06,2026-09,39,39,40,97.5
+Onions (local),Nyaungpin,6085,KG,Retail,MMK,2023-06,2026-09,39,39,40,97.5
+Oil (palm),Butar,7930,L,Retail,MMK,2022-09,2026-07,39,39,47,83.0
+Onions (local),KalawMyoma,8028,KG,Retail,MMK,2022-09,2026-09,39,39,49,79.6
+Rice (low quality),Paletwa Myoma Market,1653,KG,Retail,MMK,2021-06,2026-04,39,39,59,66.1
+Onions (local),Kyauk Ta Lone,3293,KG,Retail,MMK,2020-07,2026-01,39,39,67,58.2
+Tomatoes (local),Hlaing Bwe Myo Ma market,3280,KG,Retail,MMK,2020-07,2026-09,39,39,75,52.0
+Oil (palm),KawKareik Myo Ma Market,3286,L,Retail,MMK,2020-04,2026-09,39,39,78,50.0
+Eggs (local),Samee,8551,10 pcs,Retail,MMK,2023-03,2026-09,38,38,43,88.4
+Onions (local),Samee,8551,KG,Retail,MMK,2023-03,2026-09,38,38,43,88.4
+Rice (low quality),Samee,8551,KG,Retail,MMK,2023-03,2026-09,38,38,43,88.4
+Salt,Samee,8551,KG,Retail,MMK,2023-03,2026-09,38,38,43,88.4
+Tomatoes (local),Samee,8551,KG,Retail,MMK,2023-03,2026-09,38,38,43,88.4
+Oil (palm),NyaungshweMyoma,8027,L,Retail,MMK,2022-09,2026-06,38,38,46,82.6
+Eggs (local),Butar,7930,10 pcs,Retail,MMK,2022-09,2026-07,38,38,47,80.9
+Onions (local),Sittwe,3341,KG,Retail,MMK,2021-03,2026-09,38,38,67,56.7
+Onions (local),Mindat Myoma Market,3311,KG,Retail,MMK,2020-07,2026-09,38,38,75,50.7
+Tomatoes (local),Mya Thida,3353,KG,Retail,MMK,2020-07,2026-09,38,38,75,50.7
+Oil (palm),Mindat Myoma Market,3311,L,Retail,MMK,2020-04,2026-09,38,38,78,48.7
+Rice (low quality),KawKareik Myo Ma Market,3286,KG,Retail,MMK,2020-04,2026-09,38,38,78,48.7
+Rice (low quality),Sittwe,3341,KG,Retail,MMK,2020-04,2026-09,38,38,78,48.7
+Rice (low quality),Thayetchaung,8470,KG,Retail,MMK,2023-03,2026-09,37,37,43,86.0
+Rice (low quality),Nget Chaung,3333,KG,Retail,MMK,2020-12,2026-01,37,37,62,59.7
+Eggs (local),Sittwe,3341,10 pcs,Retail,MMK,2021-03,2026-09,37,37,67,55.2
+Salt,Zedi Pyin,1024,KG,Retail,MMK,2011-02,2026-09,37,37,188,19.7
+Eggs (local),Salin Myoma,9094,10 pcs,Retail,MMK,2023-09,2026-09,36,36,37,97.3
+Oil (palm),Salin Myoma,9094,L,Retail,MMK,2023-09,2026-09,36,36,37,97.3
+Onions (local),Salin Myoma,9094,KG,Retail,MMK,2023-09,2026-09,36,36,37,97.3
+Pulses,Salin Myoma,9094,KG,Retail,MMK,2023-09,2026-09,36,36,37,97.3
+Rice (low quality),Salin Myoma,9094,KG,Retail,MMK,2023-09,2026-09,36,36,37,97.3
+Salt,Salin Myoma,9094,KG,Retail,MMK,2023-09,2026-09,36,36,37,97.3
+Tomatoes (local),Salin Myoma,9094,KG,Retail,MMK,2023-09,2026-09,36,36,37,97.3
+Pulses,Samee,8551,KG,Retail,MMK,2023-03,2026-09,36,36,43,83.7
