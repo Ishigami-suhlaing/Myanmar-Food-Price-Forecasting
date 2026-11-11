@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0b49547f1a9032ff87608a9acef1970c6e089d44e6d0f9310d2da9045ffbfed1"
+            "sha256": "53bd81c8811d5b1567519149759deef31c7c43e190c4bdc24c0dac929b10095f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1185,6 +1185,15 @@
             "index": "pypi",
             "markers": "python_version >= '3.10'",
             "version": "==0.15.0"
+        },
+        "tabulate": {
+            "hashes": [
+                "sha256:e2cfde8f79420f6deeffdeda9aaec3b6bc5abce947655d17ac662b126e48a60d",
+                "sha256:f0b0622e567335c8fabaaa659f1b33bcb6ddfe2e496071b743aa113f8774f2d3"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.10'",
+            "version": "==0.10.0"
         },
         "threadpoolctl": {
             "hashes": [

@@ -13,6 +13,7 @@ seaborn = "*"
 statsmodels = "*"
 openpyxl = "*"
 ipykernel = "*"
+tabulate = "*"
 
 [dev-packages]
 
