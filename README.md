@@ -35,7 +35,16 @@ Some of the main problems this project explores are:
 
 The goal is to investigate whether machine learning can provide useful estimates of future rice prices based on historical observations.
 
-## 3. What Does the Model Do?
+
+## 3. 📊 Dataset & Data Sources
+
+This project uses historical market price data for Myanmar sourced from the **World Food Programme (WFP)** . 
+
+* **Source (HDX):** [WFP Food Prices for Myanmar](https://data.humdata.org/dataset/wfp-food-prices-for-myanmar) via the Humanitarian Data Exchange (HDX)
+* **Resource ID:** 4f188cc5-7f6a-4354-95d7-15bd45bb8587
+
+
+## 4. What Does the Model Do?
 
 The application uses a trained machine learning model to forecast rice prices using historical monthly price information.
 
@@ -48,13 +57,6 @@ The forecasting workflow includes:
 5. Selecting a model based on time-series validation.
 6. Generating price forecasts through a Streamlit web application.
 
-
-## 4. 📊 Dataset & Data Sources
-
-This project uses historical market price data for Myanmar sourced from the **World Food Programme (WFP)** . 
-
-* **Source (HDX):** [WFP Food Prices for Myanmar](https://data.humdata.org/dataset/wfp-food-prices-for-myanmar) via the Humanitarian Data Exchange (HDX)
-* **Resource ID:** 4f188cc5-7f6a-4354-95d7-15bd45bb8587
 
 
 ### Key Dataset Characteristics
@@ -75,7 +77,7 @@ The final model was selected using a Sliding Walk-Forward validation strategy wi
 
 These results represent the selected model's evaluation under the specified validation strategy. They should not be interpreted as a guarantee of future forecasting accuracy.
 
-## 4. Current Project Scope and Limitations
+## 5. Current Project Scope and Limitations
 
 At the current development stage, the project supports only one market and one commodity.
 
@@ -114,7 +116,7 @@ Potential future development includes:
 - Improving forecasting performance during periods of sudden price fluctuations.
 - Developing a more comprehensive food-price monitoring and forecasting platform.
 
-## 5. Running the Project Locally
+## 6. Running the Project Locally
 
 ### Prerequisites
 
@@ -168,7 +170,7 @@ pipenv run streamlit run app.py
 http://localhost:8501
 ```
 
-## 6. Technologies Used
+## 7. Technologies Used
 
 - **Python** – Main programming language.
 - **Pandas** – Data manipulation and analysis.
@@ -178,7 +180,7 @@ http://localhost:8501
 - **Pipenv** – Python dependency and virtual environment management.
 - **Render** – Application deployment.
 
-## 7. Project Status
+## 8. Project Status
 
 **Current status: Deployed**
 
