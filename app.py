@@ -1,4 +1,3 @@
-
 from pathlib import Path
 
 import numpy as np
@@ -20,7 +19,9 @@ st.set_page_config(
     layout="wide"
 )
 
-DATA_PATH = "data/prices.csv"
+# Robust path resolution relative to app.py location
+BASE_DIR = Path(__file__).resolve().parent
+DATA_PATH = BASE_DIR / "data" / "prices.csv"
 
 TARGET_COMMODITY = "Rice (low quality)"
 TARGET_UNIT = "KG"
@@ -39,12 +40,13 @@ RIDGE_ALPHA = 10.0
 @st.cache_data
 def load_monthly_prices(data_path):
 
-    if not Path(data_path).exists():
+    path_obj = Path(data_path)
+    if not path_obj.exists():
         raise FileNotFoundError(
-            f"Dataset not found: {data_path}"
+            f"Dataset not found at expected path: {path_obj.resolve()}"
         )
 
-    df = pd.read_csv(data_path)
+    df = pd.read_csv(path_obj)
 
     # Standardize column names
     df.columns = (
