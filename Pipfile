@@ -14,6 +14,7 @@ statsmodels = "*"
 openpyxl = "*"
 ipykernel = "*"
 tabulate = "*"
+streamlit = "*"
 
 [dev-packages]
 
