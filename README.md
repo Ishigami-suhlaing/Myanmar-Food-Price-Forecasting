@@ -48,6 +48,20 @@ The forecasting workflow includes:
 5. Selecting a model based on time-series validation.
 6. Generating price forecasts through a Streamlit web application.
 
+
+## 4. 📊 Dataset & Data Sources
+
+This project uses historical market price data for Myanmar sourced from the **World Food Programme (WFP)** . 
+
+* **Source (HDX):** [WFP Food Prices for Myanmar](https://data.humdata.org/dataset/wfp-food-prices-for-myanmar) via the Humanitarian Data Exchange (HDX)
+* **Resource ID:** 4f188cc5-7f6a-4354-95d7-15bd45bb8587
+
+
+### Key Dataset Characteristics
+* **Coverage:** Geo-referenced retail and wholesale market prices across Myanmar (including key regional markets such as Pakokku and Shan State).
+* **Target Commodities:** Staple food items, focusing on retail rice prices.
+* **Temporal Structure & Handling:** Historical monthly time-series observations. Because real-world conflict and supply chain disruptions cause intermittent reporting gaps across certain markets, missing values are **intentionally preserved** rather than filled with naive imputation to avoid introducing artificial price trends.
+
 ### Selected Model
 
 **Ridge Regression (Percentage-based features)**
